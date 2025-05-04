@@ -3,4 +3,9 @@
 &lt;p>And this is a block math example:&lt;/p>
 &lt;p>$$
 \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$&lt;/p></description></item><item><title>Understanding Limits</title><link>https://eljitall.github.io/posts/calculus/limits/</link><pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate><guid>https://eljitall.github.io/posts/calculus/limits/</guid><description>&lt;p>Welcome&lt;/p>
+&lt;p>This is an inline math example: $a^2 + b^2 = c^2$.&lt;/p>
+&lt;p>And this is a block math example:&lt;/p>
+&lt;p>$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
 $$&lt;/p></description></item></channel></rss>
